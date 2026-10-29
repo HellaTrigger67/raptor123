@@ -8,7 +8,7 @@
 - [Git Basics](/Git.md)
 - [Task Mermaid](/mermaidtask.md)
 - [Task Deadlock](/Deadlock.md)
-- [Static project](/sitekrutoidogs/README.md)
+- [Static project](https://github.com/HellaTrigger67/ai)
 
 ### репозиторий преподавателя 
 - [Repository_teacher's](https://gitflic.ru/project/rurewa/mfua)
