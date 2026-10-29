@@ -9,3 +9,4 @@
 - [Task Mermaid](/mermaidtask.md)
 - [Task Deadlock](/Deadlock.md)
 - [Static project](/sitekrutoidogs/README.md)
+- [Репозиторий преподавателя](https://gitflic.ru/project/rurewa/mfua)
