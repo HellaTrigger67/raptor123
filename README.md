@@ -6,7 +6,7 @@
 - [Mermaid](/mermaid.md)
 - [Bush CLI](/bash_cli.md)
 - [Git Basics](/Git.md)
-- [BashScript](/)
+- [BashScript](/code/raptor123/BashScpirt.md)
 - [Task Mermaid](/mermaidtask.md)
 - [Task Deadlock](/Deadlock.md)
 - [Static project](https://github.com/HellaTrigger67/ai)
