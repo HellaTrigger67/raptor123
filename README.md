@@ -11,7 +11,6 @@
 - [Task Deadlock](/Deadlock.md)
 - [Static project][def]
 - [Docker работы](/Docker/)
-=======
 - [Static project](https://github.com/HellaTrigger67/ai)
 - [Welcome to docker](/welcome_to_docker.md)
 - [docker reminder](/docker_reminder.md)
