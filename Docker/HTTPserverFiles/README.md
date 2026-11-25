@@ -22,8 +22,6 @@ docker run -d `
   nginx:alpine
 ```
 
-![alt text](image.png)
-
 > Если эта команда в Powershell не работает, то удалите из кода апострофы `
 
 в **Git-Bash/Linux/WSL 2.0/Mac**
@@ -34,6 +32,8 @@ docker run -d \
   -v $(pwd):/usr/share/nginx/html \
   nginx:alpine
 ```
+
+![alt text](image-1.png)
 
 3. Проверьте
 ```shell

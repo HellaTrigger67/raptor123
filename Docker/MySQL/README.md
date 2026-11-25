@@ -23,7 +23,7 @@ docker run -d `
   mysql:8
 ```
 
-![alt text](image.png)
+
 
 > Если эта команда в Powershell не работает, то удалите из кода апострофы `
 
@@ -38,6 +38,8 @@ docker run -d \
   -e MYSQL_PASSWORD=password \
   mysql:8
 ```
+
+![alt text](image-3.png)
 
 2. Подключиться
 ```shell

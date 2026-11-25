@@ -19,9 +19,6 @@ docker run -d `
   -p 8084:8080 `
   adminer:latest
 ```
-![alt text](image.png)
-
-
 Запустите **Adminer** в **Git-Bash/Linux/WSL 2.0/Mac**
 ```shell
 docker run -d \
@@ -29,6 +26,9 @@ docker run -d \
   -p 8084:8080 \
   adminer:latest
 ```
+
+![alt text](image-2.png)
+
 [Откройте: http://localhost:8084](http://localhost:8084)
 
 ![alt text](image-1.png)

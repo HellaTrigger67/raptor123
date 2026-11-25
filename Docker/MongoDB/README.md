@@ -36,7 +36,7 @@ docker run -d \
 docker exec -it my-mongo mongosh
 ```
 
-![alt text](image-1.png)
+![alt text](image-10.png)
 
 Повыполняйте какие-нибудь команды в этой БД для проверки и пришлите скрины
 

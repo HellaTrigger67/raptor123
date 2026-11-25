@@ -44,8 +44,6 @@ docker run -d `
   httpd:alpine
 ```
 
-![alt text](image.png)
-
 > Если эта команда в Powershell не работает, то удалите из кода апострофы `
 
 для **Git-Bash/Linux/WSL 2.0/Mac**
@@ -56,6 +54,8 @@ docker run -d \
   -v $(pwd):/usr/local/apache2/htdocs \
   httpd:alpine
 ```
+
+![alt text](image-1.png)
 
 [Откройте: http://localhost:8081](http://localhost:8081)
 
